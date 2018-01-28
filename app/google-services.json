@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "363116342446",
+    "firebase_url": "https://home-control-4382e.firebaseio.com",
+    "project_id": "home-control-4382e",
+    "storage_bucket": "home-control-4382e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363116342446:android:3ac50d7cf9e1c9bb",
+        "android_client_info": {
+          "package_name": "vitalinstinct.homecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363116342446-s9fp9mdvt0ip3onfnh6briu2ptckrsvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiN68XoxfIAhB-ENCWE5V05RovZ1vLq2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
